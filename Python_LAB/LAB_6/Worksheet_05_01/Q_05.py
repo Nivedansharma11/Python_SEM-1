@@ -1,0 +1,6 @@
+print('y' in "Python")
+print(87 in [95, 87, 92])
+print("AI" in {"Python", "AI", "Beginner"})
+print('z' in "Python")
+print(100 in [95, 87, 92])
+print("SQL" in {"Python", "AI", "Beginner"})
