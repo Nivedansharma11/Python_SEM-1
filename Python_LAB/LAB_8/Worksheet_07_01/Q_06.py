@@ -1,11 +1,5 @@
-n,m,a=map(int,input().split())
+n,m,a= map(int,input().split())
 
-a1=n*m
-a2=a*a
-
-x=a1//a2
-
-k=a1-x*a2
-f=k//a2
-
-print(x+f)
+r=(n+a-1)//a
+c=(m+a-1)//a
+print(r*c)
