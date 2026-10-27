@@ -106,13 +106,13 @@
 #     print(x)
 
 
-n=int(input())
-s=0
-digit=list(map(int,str(n)))
-k=0
+# n=int(input())
+# s=0
+# digit=list(map(int,str(n)))
+# k=0
 
-while len(digit)>1 :
-    kn=sum(digit)
-    digit=list(map(int,str(k)))
+# while len(digit)>1 :
+#     kn=sum(digit)
+#     digit=list(map(int,str(k)))
 
-    s=s+1
+#     s=s+1
