@@ -1,3 +1,4 @@
+# Optimal approach 
 a =int(input())
 b=int(input())
 
@@ -14,3 +15,6 @@ else:
             break
         else:
             m=m-1
+
+
+# Brute Force Approch

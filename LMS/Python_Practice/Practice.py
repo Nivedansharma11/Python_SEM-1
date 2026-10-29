@@ -116,3 +116,29 @@
 #     digit=list(map(int,str(k)))
 
 #     s=s+1
+
+# Write your reference solution here
+# g=int(input())
+
+# d=0
+# m=0
+# nm=0
+# steps=[]
+# while True:
+#         ds=int(input())
+#         if ds==-1:
+#                 best=steps.sort()
+#                 print(f"Days goal met: {m} out of {d}")
+#                 print(f"Best day: Day {steps.index(max(steps))} with {max(steps)} steps")
+#                 break
+
+#         else:
+#                 steps.append(ds)
+#                 if ds<g:
+#                         d=d+1
+#                         print(f"Day {d}: {ds} steps - Goal missed")
+#                 elif ds>=g:
+#                         m=m+1
+#                         d=d+1
+#                         print(f"Day {d}: {ds} steps - Goal met")
+
